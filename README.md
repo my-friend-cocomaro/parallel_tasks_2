@@ -1,4 +1,4 @@
 #### **Make entry points**:
-- `coml` -> compile .cpp file
+- `compl` -> compile .cpp file
 - `run` -> execute .out file
 - `rm` -> remove all .out files
